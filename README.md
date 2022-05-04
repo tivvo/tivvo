@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @tivvo, I currently have this up because, well I was forced to by the GitHub tutorial, and have nothing else to do. This account was mostly made for school use oly, and also for whatever
-I need to ater on, evn though I might use this at home, or smthn, No Idea really.
+- hey, im @tivvo / tiv, i made this account orignally for school but now use it permenantely for personal projects since it took a good 4 moths to link my actual accounts, if you're one of my friends and somehow find this, well good for you. i guess?
 
 
 <!---
