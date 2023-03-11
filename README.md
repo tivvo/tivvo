@@ -19,6 +19,8 @@ ________________________________________________________________________________
 />
 <img align="left" img src="https://github-readme-stats.vercel.app/api?username=tivvo&show_icons=true" />
 
+</picture>
+
 
 
 <h1>languages</h1>
