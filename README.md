@@ -5,25 +5,5 @@
 - `some repositories are used by argon or rojo, for experimenting w/ games or simply having a sync` <br>
 _____________________________________________________________________________________________________________
 
-<h1>some stats / info</h1>
+![Metrics](https://metrics.lecoq.io/tivvo?template=classic&isocalendar=1&habits=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&config.timezone=Africa%2FJohannesburg)
 
-<picture>
-
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=tivvo&show_icons=true&count_private=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=tivvo&show_icons=true"
-  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-/>
-<img align="left" img src="https://github-readme-stats.vercel.app/api?username=tivvo&show_icons=true" />
-
-</picture>
-
-
-
-<h1>languages</h1>
-- primarily a luau scripter for roblox | 2.3 years of experience <br><br>
-- python | 6 months of experience <br><br>
-- html | 2 months of random experimenting <br><br>
